@@ -13,6 +13,7 @@ class Dog
 
 end
 
-Dog.new("Fido")
+fido=Dog.new
+fido.name="Fido"
 
 fido.name="Snoopy"
