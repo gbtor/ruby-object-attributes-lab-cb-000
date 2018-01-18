@@ -11,9 +11,9 @@ class Dog
     @name=new_name
   end
 
-  fido=Dog.new
-  fido.name="Fido"
-
-  fido.name="Snoopy"
-
 end
+
+fido=Dog.new
+fido.name="Fido"
+
+fido.name="Snoopy"
